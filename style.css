@@ -1,0 +1,21 @@
+.full {display:flex;
+    grid-template-columns: 2fr 4fr;
+    margin: 0px;
+    width: 60%;
+    padding: 5mm;
+    
+}
+.right {background-color: rgb(247, 222, 243);float:right}
+.left {background-color: rgb(238, 192, 222); float:left}
+.apraksts {font-style: italic; margin: 5mm;}
+body {display: flex;
+    align-items: center;
+    justify-content: center;
+padding: 5mm; }
+h1 {font: bold; margin: 5mm;}
+h2 {font-size: 0,6cm;
+margin: 5mm;
+font-style: oblique;}
+.kontakti{ margin-left: 5mm;}
+p {font-size: 0,4cm;}
+.bilde { margin-left: 5mm; align-items: center;}
